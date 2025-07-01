@@ -1,0 +1,27 @@
+{
+  "name": "nexium",
+  "version": "1.0.0",
+  "description": "This repository contains the first assignment for Nexium project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/index.test.js",
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huzaifanasir95/-Nexium_Huzaifa_Assign1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Huzaifanasir95/-Nexium_Huzaifa_Assign1/issues"
+  },
+  "homepage": "https://github.com/Huzaifanasir95/-Nexium_Huzaifa_Assign1#readme",
+  "devDependencies": {
+    "eslint": "^9.30.0",
+    "prettier": "^3.6.2"
+  }
+}

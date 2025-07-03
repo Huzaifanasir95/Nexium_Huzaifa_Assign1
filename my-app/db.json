@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "555-1234",
+      "category": "work"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "555-5678",
+      "category": "family"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "phone": "555-9012",
+      "category": "friend"
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "email": "alice@example.com",
+      "phone": "555-3456",
+      "category": "work"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com",
+      "phone": "555-7890",
+      "category": "friend"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "work"
+    },
+    {
+      "id": 2,
+      "name": "family"
+    },
+    {
+      "id": 3,
+      "name": "friend"
+    }
+  ]
+}
